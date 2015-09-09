@@ -77,3 +77,72 @@ of the library forms.
 Use the following table as a hint to help you get started:
 [If needed, see the section "SUGGESTED DAILY PRACTICE FORMS FOR
 EXCERCISE 6"]
+
+<pre>Melody
+on Basic
+String     Melody Note     Chord Form
+------     -----------     ----------
+1          root            E form
+1          third           D form
+1          fifth           C form
+1          seventh         G form
+-------------------------------
+2          root            C form
+2          third           A form
+2          fifth           E form
+2          seventh         D form</pre>
+
+## Daily Exercise Regimine Continued
+Example of chord location for exercise 5 of daily exercise:
+
+<pre>B minor              E major              A major
+ 
+----------- 4th fret ----------- 4th fret ----------- 5th fret
+| | * * * |          | | | * | *          * | | | * *
+-----------          -----------          -----------
+| * | | | |          | | | | * |          | | | * | |
+-----------          -----------          -----------
+| | | | | |          | | * | | |          | * * | | |
+-----------          -----------          -----------
+* | | | | |          | * | | | |          | | | | | |
+-----------          -----------          -----------
+G form               C form               E form
+(with flat 3rd)
+ 
+This E major chord is really
+a dominant 7 (V7) chord
+(see discussions on this
+elsewhere in this paper)
+ 
+E7
+ 
+----------- 4th fret
+| | | | | |
+-----------
+| | | | * |
+-----------
+| | * | | |
+-----------
+| * | * | |
+-----------</pre>
+
+As you become comfortable with this exercise, feel free to modify
+the basic forms to create more interesting chords and expand, in a
+systematic way, your understanding of how these forms can be modified
+and extended from the basic forms. Feel free to look through the
+chord library to find these chords.
+ 
+7. This is an optional step (for "extra credit" for those who are
+particularly motivated). Play the harmonized scale using forms
+that are as close to each other as possible picked from the chord
+form library. You can start with simple major and minor forms and
+expand to using altered and extended forms later. The harmonized
+scale will be built diatonically:
+ 
+I ii iii IV V7 vi vii
+ 
+A capital Roman numeral represents a major chord. A small Roman
+numeral represents a minor chord (except for the vii, which is a
+half-diminished chord). The root of the chord is the melody in
+each case. The note picked in step one is the Root note for this
+scale (which also determines the key).

@@ -36,3 +36,44 @@ Progress to the chord form library and use it to create LOTS of chord-melody sol
 Look to expanding your knowledge by studying other people's arrange- ments, method books, and recorded songs. All the while, continue practicing your daily regimen (it should take less than 10-15 minutes per day by now) and arranging new songs. By learning LOTS of new songs, you will get a natural feel for how chords progress.
 
 At some point, you may want to learn to play and arrange by ear. To do this, become familiar with the major scales for each form. Each day, pick a song at random (start with simple nursery rhymes) and pick out the melody on the guitar. At first, this may be difficult. In time, as with everything else, it gets easier. By now, you already have a good feel for (if not memorized) the use of the chord forms in the library to create chord-melody arrangements. Use this knowledge to harmonize the melodies you pick out by ear.
+## Daily Exercise Regimine
+All 6 steps should be practiced every day. At first, this will take
+a while (30 minutes - 1 hour). But, as you become familiar with the
+territory (which is the whole idea), these will take less and less
+time. With time, these can be completed within 10 minutes. These
+exercises encapsulate the entire subject matter presented in this
+paper. Becoming completely familiar and comfortable with the material
+through these exercises will make the journey as painless as possible.
+ 
+1. Pick any note at random (or, move through the cycle of
+fifths, taking one of these each day).
+2. Find each occurrence of this note along each string, going
+up all strings, then back down.
+3. Use this note as the root of today's chord to find
+the basic CAGED forms going up and down the neck. With
+each chord form, identify it's "nucleus" root, third, and
+fifth.
+4. For each chord found in step 3, play its Pentatonic and
+major scale forms. [NOTE: plug this step into your daily
+exercise regimen when you feel the need to do so -- and
+will thus be motivated to do it].
+5. For each of the chord forms identified in step 3, treat
+that chord as the I chord and find it's nearest ii and
+V7 chords (example: for a I chord of 'A', find the
+Bmi(7) and E7 chords that are closest to the 'A' chord). Use the
+chord form library to find these chord forms.
+[NOTE:] Now is a good time to start becoming familiar with the
+Pentatonic forms by playing each of these chord form's Pentatonic
+scale. [SEE EXAMPLE ON NEXT PAGE]
+6. Use the note selected in Step 1 as the melody note to be harmonized.
+Find and play all the chords that would use that note as the 1, 3,
+5, and 7th as the melody on the first and second strings. Start
+with basic chord forms and expand to include minor chords, 6ths,
+9ths, suspended, etc. Use the chord form library to find these
+forms. See the section "A PRACTICAL CHORD-MELODY LIBRARY OF FORMS",
+particularly showing how to "morph" from a basic CAGED form to one
+of the library forms.
+ 
+Use the following table as a hint to help you get started:
+[If needed, see the section "SUGGESTED DAILY PRACTICE FORMS FOR
+EXCERCISE 6"]
